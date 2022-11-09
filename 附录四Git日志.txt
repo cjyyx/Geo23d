@@ -1,0 +1,158 @@
+commit 89f1801124a70fd3137b9f967b9757ffd5e57909
+Author: c <1627814505@qq.com>
+Date:   Thu May 12 22:38:49 2022 +0800
+
+    完成EquationCurve，修复一些bug
+
+commit 3f26d78988ce29a5c514426bf348cd5b688571cf
+Author: c <1627814505@qq.com>
+Date:   Sun May 8 20:42:51 2022 +0800
+
+    解决内存爆炸
+
+commit b0c3a6e82cd7ccab7cd6c0764f9995bb21ace99b
+Author: c <1627814505@qq.com>
+Date:   Sun May 8 18:53:31 2022 +0800
+
+    完善函数曲线
+
+commit 8c032ed592bf694a12895543a0be78d6328f8ffd
+Author: c <1627814505@qq.com>
+Date:   Wed May 4 21:39:32 2022 +0800
+
+    成功脱离对cJSON的依赖
+
+commit 2767fc7ef6385a59363eee5a30f9a58dd20ead00
+Author: c <1627814505@qq.com>
+Date:   Wed May 4 15:34:22 2022 +0800
+
+    由于查重原因，开始去除cJSON库(╬▔皿▔)╯
+
+commit c06444af38e2292bcc03e2a972d4fa522f052ea0
+Author: c <1627814505@qq.com>
+Date:   Mon May 2 14:10:15 2022 +0800
+
+    完成BackThreePointCircle
+
+commit 56721d9f658a93dc71efd1d119dc02907c801d37
+Author: c <1627814505@qq.com>
+Date:   Mon May 2 11:57:37 2022 +0800
+
+    完成    "MiddlePoint",
+        "LineSegment",
+        "RegularPolygon"
+
+commit cf30cdc48e3b8e6fadbecebeb6133259d45656d2
+Author: c <1627814505@qq.com>
+Date:   Sun May 1 22:41:22 2022 +0800
+
+    加入了中心圆对象
+
+commit d09b6c3fd0557a9357b3bcaea5086fb41e46ccce
+Author: c <1627814505@qq.com>
+Date:   Sun May 1 18:44:33 2022 +0800
+
+    实现从项目文件中打开功能
+
+commit 6537153b86929e89ea94cb9f5577d264b10fd6a0
+Author: c <1627814505@qq.com>
+Date:   Sun May 1 15:50:02 2022 +0800
+
+    基本实现新建项目并保存功能
+
+commit e3e7c34a2eaffc2116ccf176a66d390f5b5fb47d
+Author: c <1627814505@qq.com>
+Date:   Sun May 1 11:18:35 2022 +0800
+
+    完成OrdinaryPolygon
+
+commit 628dea7be636a4c61e32a1c079ff5afa34a4be5d
+Author: c <1627814505@qq.com>
+Date:   Sat Apr 30 23:03:15 2022 +0800
+
+    添加inputbox，实现一半的多边形
+
+commit 8afe2f79ec8cc9073429980502e90417efa8997e
+Author: c <1627814505@qq.com>
+Date:   Sat Apr 30 13:47:54 2022 +0800
+
+    基本完成直线
+
+commit 17a31b2c0dbc75f046b089920b6525aaf4fe8b84
+Author: c <1627814505@qq.com>
+Date:   Sat Apr 30 10:38:57 2022 +0800
+
+    重构showInterface状态机，加入了移动点功能
+
+commit 6bf610939425d40d9dec43a6af129c533b948dca
+Author: c <1627814505@qq.com>
+Date:   Thu Apr 28 20:43:23 2022 +0800
+
+    分离showWindow，重构基本完成
+
+commit d69be85cdcc0a2932a8358b5bc9599cca4e22da4
+Author: c <1627814505@qq.com>
+Date:   Thu Apr 28 19:20:25 2022 +0800
+
+    分离基本几何对象
+
+commit fcc47cfd33935fb586e30a71566b6b44d0a23d01
+Author: c <1627814505@qq.com>
+Date:   Thu Apr 28 18:27:10 2022 +0800
+
+    分离StaetInterface;
+    删除旧Alart
+
+commit f1c52477012b24d1a32fb1ed6c0ea3d6d7e9c83f
+Author: c <1627814505@qq.com>
+Date:   Thu Apr 28 17:36:37 2022 +0800
+
+    重构补充
+
+commit 4bd688b5a5b8240ae37ebfc3826a4213077f3db6
+Author: c <1627814505@qq.com>
+Date:   Thu Apr 28 17:25:40 2022 +0800
+
+    重构-分离main2d，能够运行
+
+commit 098117fb11ea884fa3173ceae840b366cec96fcf
+Author: c <1627814505@qq.com>
+Date:   Wed Apr 27 21:23:49 2022 +0800
+
+    完善了普通点
+
+commit 4919dbd290eee14d0120e98cc036e7111f3ec2bf
+Author: c <1627814505@qq.com>
+Date:   Wed Apr 27 17:27:29 2022 +0800
+
+    daily updata
+
+commit 5f87dc07bafc814b97026c88951bccc4c98207eb
+Author: c <1627814505@qq.com>
+Date:   Wed Apr 27 16:03:53 2022 +0800
+
+    daily updata
+
+commit 5e6f4c8b343859d43b59f6ecb840b1410341abc5
+Author: c <1627814505@qq.com>
+Date:   Sat Apr 23 18:31:17 2022 +0800
+
+    坐标系可视化
+
+commit f239aa4d5edcfb8e7aa87e1c2da94392be3c6a47
+Author: c <1627814505@qq.com>
+Date:   Sat Apr 23 12:29:44 2022 +0800
+
+    主界面搭建完成
+
+commit 1a51df87eafdc1aee926eb2a917f905b53de6c03
+Author: c <1627814505@qq.com>
+Date:   Fri Apr 22 21:17:37 2022 +0800
+
+    next
+
+commit fe4ca6a46eb9c740b91b602252c9106407314f40
+Author: c <1627814505@qq.com>
+Date:   Mon Apr 4 21:14:02 2022 +0800
+
+    start
